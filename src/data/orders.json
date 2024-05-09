@@ -1,0 +1,44 @@
+{
+  "configs": [
+    {
+      "id": "layout",
+      "value": "2x2",
+      "description": ""
+    },
+    {
+      "id": "sound",
+      "value": false,
+      "description": "Play a sound when an order is added."
+    }
+  ],
+  "orders": [
+    {
+      "id": 1715250930506,
+      "order": 1
+    },
+    {
+      "id": 1715250937882,
+      "order": 2
+    },
+    {
+      "id": 1715263407983,
+      "order": 3
+    },
+    {
+      "id": 1715263408559,
+      "order": 4
+    },
+    {
+      "id": 1715263410175,
+      "order": 5
+    },
+    {
+      "id": 1715263410815,
+      "order": 6
+    },
+    {
+      "id": 1715263411519,
+      "order": 7
+    }
+  ]
+}
