@@ -2,43 +2,35 @@
   "configs": [
     {
       "id": "layout",
-      "value": "2x2",
-      "description": ""
+      "value": "2x3",
+      "description": "Clients panel layout."
     },
     {
       "id": "sound",
-      "value": false,
+      "value": true,
       "description": "Play a sound when an order is added."
     }
   ],
   "orders": [
     {
-      "id": 1715250930506,
+      "id": 1717418561038,
       "order": 1
     },
     {
-      "id": 1715250937882,
+      "id": 1717418565166,
       "order": 2
     },
     {
-      "id": 1715263407983,
+      "id": 1717418566030,
       "order": 3
     },
     {
-      "id": 1715263408559,
+      "id": 1718305165827,
       "order": 4
     },
     {
-      "id": 1715263410175,
+      "id": 1718305174881,
       "order": 5
-    },
-    {
-      "id": 1715263410815,
-      "order": 6
-    },
-    {
-      "id": 1715263411519,
-      "order": 7
     }
   ]
 }
