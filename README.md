@@ -12,8 +12,12 @@ Nesse projeto foi usado o Express, JSON-Server como a API e banco de dados e o S
 4. Executar "cd ./PainelDeChamadas-Backend";
 5. Executar "npm install";
 6. Criar um arquivo chamado ".env" na raiz do projeto e dentro dele as variáveis abaixo:
-	- JSON_SERVER_URL="http://localhost"
-	- JSON_SERVER_PORT="3333"
-	- HTTP_SERVER_URL="http://localhost"
-	- HTTP_SERVER_PORT="3000"
+
+```javascript
+	JSON_SERVER_URL="http://localhost"
+	JSON_SERVER_PORT="3333"
+	HTTP_SERVER_URL="http://localhost"
+	HTTP_SERVER_PORT="3000"
+```
+
 7. Executar "npm start".
